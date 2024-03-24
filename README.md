@@ -6,9 +6,7 @@ SAMUEL KIRORI
 
 Week1 Code Challenge
 
-**Description**
-
-The project does the following;
+**Description**-The project does the following;
 
 -Grades student marks and also checks if student marks are between 0 and 100, if not it prints invalid!.
 
@@ -17,6 +15,7 @@ The project does the following;
 -Calculates an individual’s Net Salary by getting the inputs of basic salary and benefits. I
 
 **Prerequisite**-
+
 -Create a repository on your GitHub account.
 
 -Use Javascript to wire down the solution.
