@@ -1,19 +1,27 @@
 **Author**
 SAMUEL KIRORI
+
 **Title**
 Week1 Code Challenge
 
 **Description**
 The project does the following;
+
 -Grades student marks and also checks if student marks are between 0 and 100, if not it prints invalid!.
+
 -Takes input speed of the car e.g 80 and prints the speed status by giving the number of demerit points if the speed is not up to standard.
+
 -Calculates an individual’s Net Salary by getting the inputs of basic salary and benefits. I
 
 **Prerequisite**-
 -Create a repository on your GitHub account.
+
 -Use Javascript to wire down the solution.
+
 -Push the solution to the above repository once done.
+
 -Submit the repository link for grading.
+
 -Ensure your repository has a well written README.
 
 **Challenge 1: Student Grade Generator (Toy Problem)**
