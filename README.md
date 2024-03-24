@@ -1,10 +1,13 @@
 **Author**
+
 SAMUEL KIRORI
 
 **Title**
+
 Week1 Code Challenge
 
 **Description**
+
 The project does the following;
 
 -Grades student marks and also checks if student marks are between 0 and 100, if not it prints invalid!.
