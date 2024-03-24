@@ -12,7 +12,7 @@ Week1 Code Challenge
 
 -Takes input speed of the car e.g 80 and prints the speed status by giving the number of demerit points if the speed is not up to standard.
 
--Calculates an individual’s Net Salary by getting the inputs of basic salary and benefits. I
+-Calculates an individual’s Net Salary by getting the inputs of basic salary and benefits. 
 
 **Prerequisite**-
 
