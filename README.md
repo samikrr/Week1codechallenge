@@ -32,7 +32,7 @@ Write a program that prompts the user to input student marks. The input should b
 A > 79, B - 60 to 79, C - 59 to 49, D - 40 to 49, E - less 40.
 
 **Solution1**
--create a prompt window in solution1.js to enter students marks. If studentmarks is between 0 and 100 print the correct grade. Use if statements to grade marks based on the range. Output 'Invalid input' if the grade is not within the range given 0 to 100.
+-create a mark.html and solution1.js file.Create a prompt window in solution1.js to enter students marks. If studentmarks is between 0 and 100 print the correct grade. Use if statements to grade marks based on the range. Output 'Invalid input' if the grade is not within the range given 0 to 100.
 
 **Challenge 2: Speed Detector (Toy Problem)**
 -Write a program that takes as input the speed of a car e.g 80. If the speed is less than 70, it should print “Ok”. Otherwise, for every 5 km/s above the speed limit (70), it should give the driver one demerit point and print the total number of demerit points.
