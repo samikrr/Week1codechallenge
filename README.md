@@ -1,4 +1,4 @@
-Prerequisite
+Prerequisite-
 Create a repository on your GitHub account.
 Use Javascript to wire down the solution.
 Push the solution to the above repository once done.
